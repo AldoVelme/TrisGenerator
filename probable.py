@@ -1,3 +1,7 @@
+# ALDO VELASCO
+# TRIS GENERATOR
+# 2017
+
 import os
 import time
 import math
@@ -8,7 +12,7 @@ os.system("color b")
 print("""
 ********************************************
 *******************************************
-              ALGO DE TITULO 
+              TRIS GENERATOR 
 
 ********************************************
 ********************************************
